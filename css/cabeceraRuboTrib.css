@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+}
+.contenedor {
+  width: 100%;
+  height: 300px;
+}
+
+.cab {
+  width: 33%;
+}
+
+.cabecera1 {
+  float: left;
+  position: relative;
+  border-right: 5px solid #fff;
+}
+
+.cabecera2 {
+  float: left;
+  position: relative;
+  border-right: 5px solid #fff;
+}
+
+.cabecera3 {
+  float: left;
+  position: relative;
+}
+
+.logo {
+  width: 30%;
+  margin: auto;
+  float: left;
+  position: relative;
+}
+
+img {
+  width: 100%;
+  height: 100px;
+}
+
+.sub-cabe {
+  text-align: center;
+  margin: auto;
+  border: 1px solid #000;
+  padding: 0px 0px;
+  width: 90%;
+  border-radius: 10px;
+}
+
+.titulo {
+  float: left;
+  position: relative;
+  width: 40%;
+  padding: 0px 10px;
+  font-size: 10px;
+  font-weight: bold;
+}
+.descripcion {
+  font-size: 10px;
+}
+
+.cuerpo {
+  width: 100%;
+}
+
+.cuer {
+  width: 33%;
+  height: 300px;
+}
+
+.cuerpo1 {
+  float: left;
+  position: relative;
+  border-right: 5px solid #fff;
+}
+.cuerpo1foot{
+  float: left;
+  position: relative;
+  border-right: 5px solid #fff;
+}
+.tab-foot{
+  width: 100%;
+  border-top: #000 1px solid;
+  border-bottom: #000 1px solid;
+  text-align: right;
+}
+.cuerpo2foot{
+  float: left;
+  position: relative;
+  border-right: 5px solid #fff;
+}
+.cuerpo3foot{
+  float: left;
+  position: relative;
+}
+.cuerpo2 {
+  float: left;
+  position: relative;
+  border-right: 5px solid #fff;
+}
+
+.cuerpo3 {
+  float: left;
+  position: relative;
+}
+table{
+    width: 100%;
+}
+th{
+    font-size: 10px;
+}
+td{
+    font-size: 10px;
+}
+.foot {
+    width: 33%;
+  }
+.footer {
+    width: 100%;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.codigo{
+  text-align: center;
+}
+.efectivo {
+    width: 80%;
+    float: left;
+    position: relative;
+    padding: 5px 0px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    
+}
+.monto{
+    width: 10%;
+    text-align: right;
+    float: left;
+    position: relative;
+    padding: 5px 0px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000; 
+}
+.num{
+    width: 58px;
+    text-align: center;
+}
+.nom{
+    width: 130px;
+}
+.pagina{
+  float: left;
+  position: relative;
+  font-size: 10px;
+  text-align: right;
+  padding-right: 10px;
+}

@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.contenido {
+    width: 100%;
+}
+
+.titulo {
+    margin: auto;
+    text-align: center;
+    float:none ;
+    position: relative;
+}
+
+.Tcabecera {
+    width: 100%;
+    font-size: 10px;
+    text-align: left;
+    border: 1px solid black;
+    
+}
+
+
+.logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+    position: relative;
+}
+
+.fecha {
+    width: 80%;
+    height: 100px;
+    text-align: right;
+    margin: auto;
+    
+}
+.fech{
+    padding: 40px;
+}
+.contenido-cuerpo{
+    width: 100%;
+}
+.Tcuerpo{
+    width: 100%;
+    margin: auto;
+    font-size: 10px;
+    text-align: center;
+}
+.orden{
+    padding-left: 45px;
+}
+.orden1{
+    padding-right: 10px;
+}
+.orden2{
+    padding-right: 10px;
+    padding-left: 45px;
+}
+.Tfooter{
+    text-align: center;
+    width: 100%;
+    font-size: 10px;
+}
+.recibos{
+    text-align: center;
+}
+.nombre{
+    text-align: left;
+    padding-left: 10px;
+}

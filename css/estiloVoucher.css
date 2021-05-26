@@ -1,0 +1,71 @@
+body {
+  font-family: sans-serif;
+  height: 100%;
+}
+.contenedor {
+  margin: auto;
+  height: 100%;
+}
+.logo {
+  width: 30%;
+  height: 100px;
+  margin: auto;
+  
+}
+
+.empresa {
+  width: 40%;
+  height: 100px;
+  padding-top: 10px;
+}
+.nempresa {
+  font-size: 20px;
+}
+.cabecera {
+  border: 1px solid #000;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 10px;
+  margin: 0px 5px;
+}
+hr.style-seven {
+  border: medium none;
+  border-top: 1px dashed white !important;
+  width: 98%;
+}
+
+th {
+  text-align: left;
+}
+.table {
+  width: 98%;
+  font-size: 10px;
+  margin: auto;
+}
+.detalle{
+    height: 400px;
+    
+}
+footer {
+  bottom: 0;
+}
+.col1 {
+  width: 33%;
+  
+  
+  float: left;
+  position: relative;
+}
+.col2 {
+  width: 33%;
+  
+  
+  float: left;
+  position: relative;
+}
+.col3 {
+  width: 33%;
+  
+  
+}
+

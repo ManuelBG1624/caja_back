@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.contenido {
+  width: 100%;
+  height: 230px;
+}
+.logo {
+  width: 30%;
+  float: left;
+  position: relative;
+}
+img{
+    width: 50%;
+}
+.titulo {
+  width: 40%;
+  float: left;
+  position: relative;
+  text-align: center;
+  padding-top: 100px;
+}
+.fecha {
+  width: 20%;
+  float: left;
+  position: relative;
+  text-align: center;
+  padding-top: 60px;
+}
+table {
+  width: 100%;
+  text-align: center;
+  font-size: 12px;
+}
+.part{
+    width: 200px;
+    text-align: left;
+}
+.nomb{
+    width: 300px;
+    text-align: left;
+}
+.num{
+    width: 170px;
+}
